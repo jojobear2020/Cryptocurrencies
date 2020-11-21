@@ -1,6 +1,9 @@
 # Cryptocurrencies
 
-Machine learning using unsupervised algorithms: 
+Project Objective:
+
+## Machine learning using unsupervised algorithms
+
 * preprocess data;
 * cluster data using K-means algorithm;
 * determine the best amount of centroids for K-means using the elbow curve; 
