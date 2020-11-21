@@ -1,7 +1,5 @@
 # Cryptocurrencies
 
-## Project Objective:
-
 ### Machine learning using unsupervised algorithms
 
 * preprocess data;
