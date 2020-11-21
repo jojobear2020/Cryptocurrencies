@@ -14,4 +14,17 @@ Machine learning using unsupervised algorithms:
 
 **Deliverable 3**: Clustering Cryptocurrencies Using K-means
 
-**Deliverable 4**: Visualizing Cryptocurrencies Results using 3D-scatter and hvplot.scatter graphs
+**Deliverable 4**: Visualizing Cryptocurrencies Results
+
+### *1. Elbow Curve*
+
+![](https://github.com/jojobear2020/Cryptocurrencies/blob/main/images/elbow_curve.PNG)
+
+### *2. 3D Scatter*
+
+![](https://github.com/jojobear2020/Cryptocurrencies/blob/main/images/3-D_scatter.PNG)
+
+### *3. 2D Hvplot*
+
+![](https://github.com/jojobear2020/Cryptocurrencies/blob/main/images/hvplot.table_image.PNG)
+
